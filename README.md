@@ -1,4 +1,4 @@
-# SIMRDWN #
+# SIMRDWN (python 2.7) #
 
 
 ![Alt text](/results/__examples/header.jpg?raw=true "")
@@ -198,6 +198,5 @@ Outputs will be something akin to the images below.  The _alpha\_scaling_ flag m
 ![Alt text](/results/__examples/ex0.png?raw=true "Figure 2")
 ![Alt text](/results/__examples/ex1.png?raw=true "Figure 3")
 	
-	
-____	
+
 _If you plan on using SIMRDWN in your work, please consider citing [YOLO](https://arxiv.org/abs/1612.08242), the [TensorFlow Object Detection API](https://arxiv.org/abs/1611.10012), [YOLT](https://arxiv.org/abs/1805.09512), and [SIMRDWN](https://arxiv.org/abs/1809.09978)._
